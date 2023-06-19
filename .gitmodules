@@ -1,3 +1,6 @@
 [submodule "BciPy"]
 	path = BciPy
 	url = https://github.com/BciPy/BciPy.git
+[submodule "RE1"]
+	path = RE1
+	url = https://github.com/madhavlolla/RE1.git
