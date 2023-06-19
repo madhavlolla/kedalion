@@ -1,0 +1,3 @@
+[submodule "BciPy"]
+	path = BciPy
+	url = https://github.com/BciPy/BciPy.git
